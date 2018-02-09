@@ -1,0 +1,3 @@
+rootProject.name = 'chatAppReact'
+
+include ':app'
